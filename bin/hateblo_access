@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'hateblo_access'
+
+hateblo = HatebloAccess::CLI.start
