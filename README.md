@@ -18,3 +18,5 @@ gem specific_install -l "https://github.com/blue1st/hateblo_access.git"
 ```
 $ hateblo_access notification --user_id=USER_ID --password=PASSWORD
 ```
+
+cronにでも仕込んで定期的に通知させるのが良いんじゃないかと。
